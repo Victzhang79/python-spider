@@ -2,16 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="23ab98f2-a95d-407f-82a9-e2d4e01b0259" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/spider/date_format.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spider/huobi_api.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spider/huobi_spider.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spider/re_test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/scrapy-beautifulsoup-spider.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/scrapy-beautifulsoup-spider.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spider/deal.py" beforeDir="false" afterPath="$PROJECT_DIR$/spider/markets.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spider/huobi.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spider/huobiDemo.py" beforeDir="false" afterPath="$PROJECT_DIR$/spider/huobi_api_demo.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spider/date_format.py" beforeDir="false" afterPath="$PROJECT_DIR$/spider/date_format.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spider/huobi_api.py" beforeDir="false" afterPath="$PROJECT_DIR$/spider/huobi_api.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spider/huobi_spider.py" beforeDir="false" afterPath="$PROJECT_DIR$/spider/huobi_spider.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -63,9 +56,10 @@
         <option value="$PROJECT_DIR$/spider/notice_list.py" />
         <option value="$PROJECT_DIR$/spider/huobiSpider.py" />
         <option value="$PROJECT_DIR$/spider/deal.py" />
-        <option value="$PROJECT_DIR$/spider/date_format.py" />
         <option value="$PROJECT_DIR$/spider/re_test.py" />
+        <option value="$PROJECT_DIR$/spider/date_format.py" />
         <option value="$PROJECT_DIR$/spider/huobi_api.py" />
+        <option value="$PROJECT_DIR$/spider/huobi_spider.py" />
       </list>
     </option>
   </component>
@@ -111,7 +105,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../movie-mooc" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path" value="D:/nodejs/node" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
@@ -258,22 +252,22 @@
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
-      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Python Console" order="7" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.2864" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2532943" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" />
-      <window_info anchor="right" id="SciView" />
+      <window_info anchor="right" id="SciView" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" id="Data View" order="3" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
@@ -290,47 +284,39 @@
     <entry file="file://D:/Python36-32/Lib/site-packages/requests/api.py" />
     <entry file="file://D:/Python36-32/Lib/site-packages/requests/sessions.py" />
     <entry file="file://D:/Python36-32/Lib/site-packages/requests/__init__.py" />
-    <entry file="file://$PROJECT_DIR$/spider/model.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="6" selection-start-line="1" selection-start-column="6" selection-end-line="1" selection-end-column="6" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/spider/model.py" />
+    <entry file="file://$PROJECT_DIR$/spider/notice_list.py" />
+    <entry file="file://$PROJECT_DIR$/spider/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/spider/markets.py">
+    <entry file="file://$PROJECT_DIR$/spider/bridge.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="179">
-          <caret line="2762" lean-forward="true" selection-start-line="2762" selection-end-line="2762" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spider/notice_list.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="6" selection-start-line="1" selection-start-column="6" selection-end-line="1" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spider/re_test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="4" lean-forward="true" selection-start-line="4" selection-start-column="4" selection-end-line="7" selection-end-column="20" />
-        </state>
+        <state relative-caret-position="-150" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/spider/date_format.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="561">
-          <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
+        <state relative-caret-position="272">
+          <caret line="16" column="5" lean-forward="true" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
           <folding>
             <element signature="e#0#29#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/spider/huobi_api.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-320">
+          <caret line="31" column="26" selection-start-line="31" selection-start-column="26" selection-end-line="31" selection-end-column="26" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/spider/huobi_api_demo.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="663">
+        <state relative-caret-position="547">
           <caret line="39" column="23" selection-start-line="39" selection-start-column="23" selection-end-line="39" selection-end-column="23" />
           <folding>
             <element signature="e#14#25#0" expanded="true" />
@@ -340,8 +326,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/spider/huobi_spider.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-352">
-          <caret line="17" column="20" lean-forward="true" selection-start-line="17" selection-start-column="20" selection-end-line="17" selection-end-column="20" />
+        <state relative-caret-position="-198">
+          <caret line="18" column="26" selection-start-line="18" selection-start-column="26" selection-end-line="18" selection-end-column="26" />
           <folding>
             <element signature="e#14#25#0" expanded="true" />
             <element signature="e#1135#122894#0" />
@@ -349,13 +335,30 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/spider/huobi_api.py">
+    <entry file="file://$PROJECT_DIR$/spider/markets.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="138">
-          <caret line="57" lean-forward="true" selection-start-line="57" selection-end-line="57" />
+        <state relative-caret-position="68">
+          <caret line="2762" lean-forward="true" selection-start-line="2762" selection-end-line="2762" />
           <folding>
-            <element signature="e#0#15#0" expanded="true" />
+            <element signature="e#37#65786#0" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spider/python2_urllib.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-45">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+          <folding>
+            <element signature="e#15#29#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spider/re_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="31" lean-forward="true" selection-start-line="10" selection-start-column="31" selection-end-line="10" selection-end-column="31" />
         </state>
       </provider>
     </entry>

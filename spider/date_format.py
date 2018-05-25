@@ -7,10 +7,10 @@ insert_sql = 'insert into notice' \
                  '(1, %d, "%s", "%s", "%s", "%s", "%s", %d)'
 
 db = pymysql.connect(
-        host='101.201.140.96',
+        host='localhost',
         port=3306,
         user='root',
-        password='Galaxy@91',
+        password='123456',
         db='coin',
         charset='utf8',
         cursorclass=pymysql.cursors.DictCursor
